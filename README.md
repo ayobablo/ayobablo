@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayobablo
-- 👀 I’m interested in Data Science and Business Analytics
+- 👀 I’m interested in Data Analysus and Business Analytics
 - 🌱 I’m currently learning Applied Data Science
 - 💞️ I’m looking to collaborate on projects that involves data science and business analytics
 - 📫 How to reach me ayooluwababalola173@gmail.com
